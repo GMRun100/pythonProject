@@ -19,3 +19,5 @@
 
 #第二种格式化字符串的方法，采用format,用这种方法比用%方法要麻烦
 print('Hello,{0},成绩提升了{1:.1f}%,{2}'.format('小明',17.125,'haha'))
+
+#input('please enter your name:')
