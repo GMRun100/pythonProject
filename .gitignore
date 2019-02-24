@@ -118,3 +118,5 @@ dmypy.json
 #my ignore folders and files
 learningMaterial/
 .vscode
+*.txt
+*.csv

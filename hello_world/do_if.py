@@ -1,5 +1,5 @@
 #-------python if条件语句的用法------------
-age_str=input('please input your age:');
+age_str=input('please input your age:')
 
 age=int(age_str)  #此处必须要用int()函数，因为input()返回的类型是str
 if age>=6:
